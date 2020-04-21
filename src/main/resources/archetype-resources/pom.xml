@@ -108,7 +108,7 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>${groupId}.HelloCv</mainClass>
+          <mainClass>${package}.HelloCv</mainClass>
           <!-- <arguments>
       <argument>foo</argument>
       <argument>bar</argument>
