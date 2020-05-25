@@ -14,6 +14,12 @@ mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate \
 -DartifactId=cvj
 ```
 
+Or:
+
+```
+curl -s http://repository.hellonico.info/repository/vendredi/origami/gen.sh | bash
+```
+
 Upload with
 
 ```
