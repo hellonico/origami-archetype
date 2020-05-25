@@ -1,3 +1,5 @@
+package hello;
+
 import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import origami.Origami;

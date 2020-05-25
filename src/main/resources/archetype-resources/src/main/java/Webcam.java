@@ -1,3 +1,5 @@
+package hello;
+
 import origami.Camera;
 import origami.Origami;
 
