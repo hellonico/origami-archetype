@@ -48,12 +48,12 @@
     <dependency>
       <groupId>origami</groupId>
       <artifactId>origami</artifactId>
-      <version>4.5.0</version>
+      <version>4.5.1-0</version>
     </dependency>
     <dependency>
       <groupId>origami</groupId>
       <artifactId>filters</artifactId>
-      <version>1.11</version>
+      <version>1.12</version>
     </dependency>
     <dependency>
       <groupId>origami</groupId>
@@ -68,7 +68,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <version>4.13</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
