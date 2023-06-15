@@ -15,16 +15,7 @@
   </properties>
 
   <repositories>
-    <repository>
-      <id>central</id>
-      <url>https://repo1.maven.org/maven2/</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-    </repository>
+    
     <repository>
       <id>clojars</id>
       <url>https://repo.clojars.org/</url>
@@ -38,6 +29,16 @@
     <repository>
       <id>hellonico</id>
       <url>https://repository.hellonico.info/repository/hellonico/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+    </repository>
+    <repository>
+      <id>central</id>
+      <url>https://repo1.maven.org/maven2/</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
       <releases>
         <enabled>true</enabled>
       </releases>
